@@ -1,4 +1,4 @@
-import TareaItem from "./TareaItem";
+import TareaItem from "./TodoItem";
 import { useState } from "react";
 
 export default function App() {
